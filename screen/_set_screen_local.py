@@ -1,3 +1,7 @@
+# Derived from liquidctl (https://github.com/liquidctl/liquidctl)
+# Copyright liquidctl contributors
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 import sys
 import math
 import time
